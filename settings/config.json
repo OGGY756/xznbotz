@@ -1,0 +1,16 @@
+{
+	"ownername":"sᴜꜱʜɪɪ私",
+	"ownernumber":"62895609803131","6281245319704","917561823024","94754257601",
+	"botname":"xznbotz私",
+	"dana": "https://ibb.co/jZmhH6g",
+	"gopay": "https://ibb.co/jZmhH6g",
+	"ovo": "https://ibb.co/jZmhH6g",
+	"pulsa": "081368971807",
+	"thumbnail":"./settings/logo.jpg",
+	"background":"https://telegra.ph/file/d4c05638fa7886a1d8060.jpg",
+	"limit": {
+		"free":20,
+		"premium":1000
+	},
+	"session_name":"./session.json"
+}
